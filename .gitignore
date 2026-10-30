@@ -1,0 +1,30 @@
+
+# Java compiled files
+*.class
+
+# Java build folders
+bin/
+out/
+build/
+target/
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
+*.env
+
+# Database backups
+*.sql
+*.db
+*.sqlite
